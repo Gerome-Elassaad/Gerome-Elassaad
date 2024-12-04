@@ -28,7 +28,7 @@ A comprehensive tool for GitHub repository growth, focusing on:
 
 - **CompTIA Certified** in multiple areas, including ethical hacking and network security.
 - Startup founder and lead developer of **Repo-Booster**, a tool for GitHub success.
-- Currently Ongoing the **IBM Full Stack Development Course** to become certified
+- **IBM Full Stack Development Certified** In Software Engineering
 
 ---
 
