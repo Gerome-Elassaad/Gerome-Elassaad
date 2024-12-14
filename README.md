@@ -35,7 +35,7 @@ A comprehensive tool for GitHub repository growth, focusing on:
 ## 🌍 Side Project
 
 - **Website**: [Repo-Booster](https://repo-booster.com)
-- **LinkedIn**: [My LinkedIn](https:/linkedin.com/in/gerome-el-assaad)
+- **LinkedIn**: [My LinkedIn](https://linkedin.com/in/gerome-el-assaad)
 - **GitHub**: [GitHub Project](https://github.com/repo-booster)
   
 ---
