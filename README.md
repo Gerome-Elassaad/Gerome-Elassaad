@@ -16,12 +16,12 @@ Hi, I’m **Gerome**, a passionate software developer and cybersecurity professi
 
 ## 🌟 Main Project
 
-### Repo-Booster
+### DeepRankAI
 - AI-Agent / SEO Chat Assistant
 - Data & Analytics platform
 - And Much More
 
-[🔗 Explore Repo-Booster](https://repo-booster.com)
+[🔗 Explore DeepRankAI](https://deeprankai.com)
 
 ---
 
@@ -36,13 +36,13 @@ Hi, I’m **Gerome**, a passionate software developer and cybersecurity professi
 
 ## 🌍 My Organization
 
-**Repo-Booster:**  
+**DeepRankAI:**  
 - **Focus Areas**:
   - SaaS Product Development
   - AI Tools & SEO Chat Assistant
   - Open-Source Contributions
 - **Role**: Founder & Lead Developer  
-- **GitHub**: [Repo-Booster](https://github.com/repo-booster)
+- **GitHub**: [DeepRankAI](https://github.com/DeepRankAI)
 
 ---
 
@@ -50,7 +50,7 @@ Hi, I’m **Gerome**, a passionate software developer and cybersecurity professi
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gerome-black?style=flat-square&logo=github)](https://github.com/gerome)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerome-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/gerome-el-assaad)  
-[![Website](https://img.shields.io/badge/Website-RepoBooster-red?style=flat-square&logo=googlechrome)](https://repo-booster.com)  
+[![Website](https://img.shields.io/badge/Website-RepoBooster-red?style=flat-square&logo=googlechrome)](https://deeprankai.com)  
 
 ---
 
