@@ -42,7 +42,7 @@ Hi, I’m **Gerome**, a passionate software developer and cybersecurity professi
   - AI Tools & SEO Chat Assistant
   - Open-Source Contributions
 - **Role**: Founder & Lead Developer  
-- **GitHub**: [DeepRankAI](https://github.com/DeepRankAI)
+- **GitHub**: [DeepRankAI](https://github.com/repo-booster)
 
 ---
 
@@ -50,7 +50,7 @@ Hi, I’m **Gerome**, a passionate software developer and cybersecurity professi
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gerome-black?style=flat-square&logo=github)](https://github.com/gerome)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gerome-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/gerome-el-assaad)  
-[![Website](https://img.shields.io/badge/Website-RepoBooster-red?style=flat-square&logo=googlechrome)](https://deeprankai.com)  
+[![Website](https://img.shields.io/badge/Website-DeepRankAI-red?style=flat-square&logo=googlechrome)](https://deeprankai.com)  
 
 ---
 
