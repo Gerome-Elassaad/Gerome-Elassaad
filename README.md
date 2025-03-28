@@ -39,7 +39,7 @@
 ---
 
 ## 🌍 My Work  
-🔹 **DeepRankAI GitHub** → [DeepRankAI](https://github.com/repo-booster)  
+🔹 **DeepRankAI GitHub** → [DeepRankAI](https://github.com/DeepRank-AI)  
 🔹 **Personal GitHub** → [Gerome Elassaad](https://github.com/gerome-elassaad)  
 
 ---
