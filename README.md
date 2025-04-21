@@ -15,7 +15,7 @@
 ---
 ## <div align="center">About me</div>
 <div align="center">
-💡 Entrepreneur | 🛡 Cybersecurity Expert | 💻 Full-Stack Developer  
+💻 Sofrware Engineer (Full Stack)
 </a>
 </div>
 
