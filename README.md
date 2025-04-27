@@ -1,4 +1,4 @@
-# <div align="center">🚀 Gerom Elassaad 🚀</div>
+# <div align="center">Gerom Elassaad</div>
 
 <div align="center">
   <a href="https://deeprankai.com">
@@ -14,10 +14,9 @@
 
 ---
 ## <div align="center">About me</div>
-<div align="center">
-💻 Sofrware Engineer (Full Stack)
-</a>
-</div>
+![Gerome](https://github.com/user-attachments/assets/e4b73503-e265-40ff-a0f5-dcee7f1f5a52)
+
+
 
 ---
 ## 🚀 DeepRankAI – Humanized SEO Blog Post Generator  
