@@ -1,4 +1,6 @@
-# <div align="center">Gerom Elassaad</div>
+
+![Gerome](https://github.com/user-attachments/assets/e4b73503-e265-40ff-a0f5-dcee7f1f5a52)
+
 
 <div align="center">
   <a href="https://deeprankai.com">
@@ -13,13 +15,9 @@
 </div>
 
 ---
-## <div align="center">About me</div>
-![Gerome](https://github.com/user-attachments/assets/e4b73503-e265-40ff-a0f5-dcee7f1f5a52)
+## Latest Project
 
-
-
----
-## 🚀 DeepRankAI – Humanized SEO Blog Post Generator  
+### 🚀 DeepRankAI – Humanized SEO Blog Post Generator  
 ✅ AI-powered **SEO Blog Post Generator**  
 ✅ Advanced **Data & Analytics** platform  
 ✅ In-depth **SEO Blog Post Editor**  
@@ -44,5 +42,6 @@
 ---
 
 ## 📫 Let's Connect!  
-💼 **Website** → [DeepRankAI](https://deeprankai.com)  
-💼 **Get in touch** → contact@deeprankai.com
+💼 **Portfolio** → [Website](https://geromes-portfolio-nextjs.vercel.app/)
+
+💼 **Get in touch** → gerome.e24@gmail.com
