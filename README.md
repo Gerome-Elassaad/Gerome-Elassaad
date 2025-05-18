@@ -14,26 +14,43 @@
   </a>
 </div>
 
+# Hi there, I'm Gerome Elassaad 👋
+
+## 👨‍💻 Software Engineer & Entrepreneur
+
+I'm an experienced software engineer with a decade of backend and full-stack development expertise, currently based in Australia. Recognized as a global talent by the Australian government, I specialize in functional programming with statically typed languages, particularly F#.
+
+### 🚀 About Me
+
+- 🔭 Founder of [DeepRank-AI](https://github.com/Gerome-Elassaad/DeepRank-AI), an AI writer tool for generating humanized content
+- 🌱 Passionate about functional programming, currently mentoring others in F# development
+- 💼 10+ years of experience working with distributed teams across the globe
+- 🎓 Love teaching and sharing knowledge - I believe teaching is the best way to internalize knowledge
+- ⚡ Fun fact: I've helped establish the core foundation of a very large F# project that was under development for 3 years
+
+### 🛠️ Skills & Technologies
+
+```
+💻 Languages:     F#, JavaScript, TypeScript, Python, Java
+🌐 Frontend:      React, Vue.js
+🔧 Backend:       Node.js
+🗄️ Databases:     SQL
+🔍 Other:         Startup Engineering, Ethical Hacking & Many More...
+```
+
+### 🏆 Certifications (19)
+
+- CompTIA Ethical Hacking Certified
+- IBM Full Stack Software Developer Certified
+- IBM Full Stack JavaScript Developer Certified
+
+### 📫 Connect With Me
+
+Feel free to reach out for collaborations or just a chat about functional programming, AI, or software development!
+
 ---
-## Latest Project
 
-### 🚀 DeepRankAI – Humanized SEO Blog Post Generator  
-✅ AI-powered **SEO Blog Post Generator**  
-✅ Advanced **Data & Analytics** platform  
-✅ In-depth **SEO Blog Post Editor**  
-✅ & much more!
-
-🔗 **[Explore DeepRankAI](https://deeprankai.com)**  
-
----
-
-## 🏆 Certifications & Experience  
-
-- 🏅 **CompTIA / Ethical Hacking Certified**  
-- 🏅 **IBM Full Stack Software Developer Certified**  
-- 🏅 **IBM Full Stack JavaScript Developer Certified**  
-
----
+*"I'm passionate about building clean, scalable, and user-focused web applications that simplify people's lives."*
 
 ## 🌍 My Work  
 🔹 **DeepRankAI GitHub** → [DeepRankAI](https://github.com/DeepRank-AI)  
