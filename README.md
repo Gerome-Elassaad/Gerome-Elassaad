@@ -22,7 +22,7 @@ I'm an experienced software engineer with a decade of backend and full-stack dev
 
 ### 🚀 About Me
 
-- 🔭 Founder of [DeepRank-AI](https://github.com/Gerome-Elassaad/DeepRank-AI), an AI writer tool for generating humanized content
+- 🔭 Founder of [DeepRank-AI](https://github.com/DeepRank-AI), an AI writer tool for generating humanized content
 - 🌱 Passionate about functional programming, currently mentoring others in F# development
 - 💼 7+ years of experience working with distributed teams across the globe
 - 🎓 Love teaching and sharing knowledge - I believe teaching is the best way to internalize knowledge
