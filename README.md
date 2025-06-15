@@ -14,51 +14,11 @@
   </a>
 </div>
 
-# Hi there, I'm Gerome Elassaad 👋
-
 ## 👨‍💻 Software Engineer & Entrepreneur
 
-I'm an experienced software engineer with a decade of backend and full-stack development expertise, currently based in Australia. Recognized as a global talent by the Australian government, I specialize in functional programming with statically typed languages, particularly F#.
-
-### 🚀 About Me
-
-- 🔭 Founder of [DeepRank-AI](https://github.com/DeepRank-AI), an AI writer tool for generating humanized content
-- 🌱 Passionate about functional programming, currently mentoring others in F# development
-- 💼 7+ years of experience working with distributed teams across the globe
-- 🎓 Love teaching and sharing knowledge - I believe teaching is the best way to internalize knowledge
-- ⚡ Fun fact: I've helped establish the core foundation of a very large F# project that was under development for 3 years
-
-### 🛠️ Skills & Technologies
-
-```
-💻 Languages:     F#, JavaScript, TypeScript, Python, Java
-🌐 Frontend:      React, Vue.js
-🔧 Backend:       Node.js
-🗄️ Databases:     SQL
-🔍 Other:         Startups, Ethical Hacking & Many More...
-```
-
-### 🏆 Certifications (19)
-
-- CompTIA Ethical Hacking Certified
-- IBM Full Stack Software Developer Certified
-- IBM Full Stack JavaScript Developer Certified
-
-### 📫 Connect With Me
-
-Feel free to reach out for collaborations or just a chat about functional programming, AI, or software development!
-
----
-
-*"I'm passionate about building clean, scalable, and user-focused web applications that simplify people's lives."*
-
-## 🌍 My Work  
-🔹 **DeepRankAI GitHub** → [DeepRankAI](https://github.com/DeepRank-AI)  
-🔹 **Personal GitHub** → [Gerome Elassaad](https://github.com/gerome-elassaad)  
-
----
+I’m an experienced software engineer with over 7 years of coding experience and more than 5 years of professional experience in the tech startup space, specializing in full-stack development. I’m currently based in Australia, recognized as a Global Talent and ranked among the top 10 developers to hire in Australia on Arc.dev.
 
 ## 📫 Let's Connect!  
-💼 **Portfolio** → [Website](https://geromes-portfolio-nextjs.vercel.app/)
+💼 **Contact** → [Where to find me](https://bug.to/Gerome)
 
 💼 **Get in touch** → gerome.e24@gmail.com
