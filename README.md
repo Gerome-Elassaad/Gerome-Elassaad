@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Software Engineer & Entrepreneur
 
-I’m an experienced software engineer with over 7 years of coding experience and more than 5 years of professional experience in the tech startup space, specializing in full-stack development. I’m currently based in Australia, recognized as a Global Talent and ranked among the top 10 developers to hire in Australia on Arc.dev.
+I’m an experienced software engineer with over 7 years of coding experience and more than 5 years of professional experience in the tech startup space, specializing in full-stack development.
 
 ## 📫 Let's Connect!  
 💼 **Contact** → [Schedule a call](https://cal.com/gerome-8faplf)
